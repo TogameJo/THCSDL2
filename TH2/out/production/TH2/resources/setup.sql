@@ -59,11 +59,5 @@ CREATE TABLE Bookings(
     FOREIGN KEY(flight_id) REFERENCES Flights(fid)
 );
 
-.mode csv
-.import C:\Users\Lenovo\Documents\Study\CSDL\TH2\resources\data\carriers.csv Carriers
-.import C:\Users\Lenovo\Documents\Study\CSDL\TH2\resources\data\months.csv Months
-.import C:\Users\Lenovo\Documents\Study\CSDL\TH2\resources\data\weekdays.csv Weekdays
-.import C:\Users\Lenovo\Documents\Study\CSDL\TH2\resources\data\flights-small.csv Flights
-
 
 
