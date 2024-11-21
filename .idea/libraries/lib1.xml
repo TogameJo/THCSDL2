@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TH2/lib/opencsv-5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TH2/lib/sqlite-jdbc-3.47.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TH2/lib/commons-lang3-3.17.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
